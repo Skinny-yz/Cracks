@@ -1,4 +1,4 @@
-local original = game:HttpGet("https://raw.githubusercontent.com/Skinny-yz/Cracks/refs/heads/main/Syntax-Hub/shitwhitelist.lua")
+local original = game:HttpGet("https://pastebin.com/raw/rPrbDxyZ")
 local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 
 local ld
